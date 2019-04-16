@@ -6,7 +6,7 @@
   <versionName>1.0.0</versionName>
   <versionCode>100</versionCode>
   <versionBuild>1.0.0</versionBuild>
-  <startPage>index.html</startPage>
+  <startPage>html/start.html</startPage>
   <debuggerEnable>false</debuggerEnable>
   <reinforcement>false</reinforcement>
   <sandbox>false</sandbox>
